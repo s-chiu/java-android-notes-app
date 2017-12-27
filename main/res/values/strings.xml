@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Quick Notes</string>
+    <string name="Last_Update">Last Update :</string>
+    <string name="Notes_Hint">Enter Notes...</string>
+    <string name="file_name">SaveData.json</string>
+    <string name="no_file">No Notes File Present</string>
+    <string name="saved">SaveData Saved!</string>
+    <string name="encoding">UTF-8</string>
+    <string name="Last_Update_Info">Last_Update_Info</string>
+    <string name="Notes">Notes</string>
+</resources>
